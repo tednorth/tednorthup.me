@@ -1,5 +1,6 @@
-body h1 {
-    background-color: lightyellow;
+.header {
+    width: 100%;
+    background: yellow;
     color: black;
 }
 
