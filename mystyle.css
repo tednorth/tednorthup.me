@@ -2,18 +2,16 @@
     width: 100%;
     background: yellow;
     color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     text-align: center;
-
 }
 
 body {
     background-color: lightblue;
     color: navy;
+    text-align: center;
 }
 
 head {
     background-color: lightyellow;
+    text-align: center;
 }
