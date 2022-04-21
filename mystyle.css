@@ -2,6 +2,11 @@
     width: 100%;
     background: yellow;
     color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
 }
 
 body {
